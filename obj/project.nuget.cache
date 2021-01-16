@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tVDMh9VsQLs/PycF+bhNAMWpaPhzze+3rHApRBPDPmRlgg4NSOk4q/ZMaB1+5Lt1VsH3UrHCpSqun3h9vWGjdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\Prace\\Watermarker\\Watermarker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.11\\microsoft.netcore.app.runtime.win-x64.3.1.11.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.11\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.11.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.11\\microsoft.aspnetcore.app.runtime.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
